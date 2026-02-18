@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Smooth scroll & base polish for HR-ready UI */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply antialiased text-slate-800;
+}
